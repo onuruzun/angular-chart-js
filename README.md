@@ -1,5 +1,7 @@
 # Angular & Chart.js 🤘
 
+![](https://cdn-images-1.medium.com/max/1600/1*N4melBe0tsA35pUnzczFKA.png)
+
 Chart.js kütüphanesi kullanılarak chart oluşturma.
 
 ## Installation
@@ -18,13 +20,12 @@ ng serve --open
 ```
 ## Sample
 
-See this article : [Angular Chart] 📜 
+
+More, see this article : [Angular Chart] 📜 
 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
-
-
 
 
 
